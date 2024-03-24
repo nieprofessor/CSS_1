@@ -1,0 +1,17 @@
+kod html
+<html>
+<head>
+<title>styl zewnetrzny</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- zewnetrzne -->
+ <LINK href="debo_z5_2.css" rel="stylesheet"
+type="text/CSS">
+</head>
+<body bgcolor="lightblue">
+ <p> Dębowski</p>
+ </body
+kod css
+p {
+color: yellow;
+font-size: 46 px;
+ }
