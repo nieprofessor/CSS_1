@@ -1,0 +1,26 @@
+kod html
+<html>
+<head>
+</head>
+<body>
+  <td width=18% align=center>
+    <font> <html>
+<head>
+<title>styl zewnetrzne</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ <style>
+ @import url(" debo_z5_1.css ");
+ </style>
+</head>
+<body bgcolor="lightblue">
+ <p> importowany arkusz</p>
+ </body>
+</html> </font>
+  </td>
+</body>
+</html>
+kod css
+p {
+color: lime;
+font-size: 66 px;
+ }
