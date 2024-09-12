@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Zadanie 34</title>
+    <style>
+        h1 {
+            margin-left:225px;
+            width: 400px;
+            height: 3cm;
+            background-color: rgb(255, 234, 0); 
+            border-color: silver, red, yellow, teal;
+            border-style: groove;
+            align:center;
+            border-width: 3pt;
+        }
+        h2 {
+            width: 280pt;
+            height: 4cm;
+            border-style: ridge; 
+            border-color: black;
+            border-width: 3pt;
+            background-color: rgb(253, 218, 13);
+        }
+h3 {
+    margin-left:350px;
+    width: 350pt;
+    height: 2cm;
+    background-color: rgb(238, 220, 130); 
+    border-width: 3pt; 
+    border-style: ridge; 
+    border-color: fuchsia ;
+}
+    </style>
+</head>
+<body>
+    <h1>Dębowski: width: 400px; height: 3cm; background-color: rgb(255, 234, 0); border-style: groove; border-color: silver, red, yellow, teal; border-width: 3pt;</h1>
+    <h2>Szymon:  width: 280pt; height: 4cm; background-color: rgb(253, 218, 13); border-style: ridge; border-color: black; border-width: 3pt;</h2>
+    <h3>5, 3G: width: 350pt; height: 2cm; background-color: rgb (238, 220, 130);  border-color: fuchsia; border-width: 3pt; border-style: ridge;</h3>
+</body>
+</html>
+<!--Szymon Dębowski -->
